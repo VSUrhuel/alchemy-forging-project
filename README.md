@@ -4,6 +4,8 @@ This project is an implementation of an Alchemy and Forging Game based on the pr
 
 ## UML Diagram
 
+![Alchemy and Forging UML](Design.png)
+
 
 ## Usage
 
